@@ -1,6 +1,8 @@
 # Analisi delle Recensioni degli Hotel Europei 🏨📊
 
 Questo progetto analizza oltre 515.000 recensioni di hotel in 6 capitali europee per estrarre insight sulla soddisfazione dei clienti provenienti da tutto il mondo e sulle performance del mercato.
+Dataset originale: Hotel_Reviews.csv (238 MB)
+https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe/data
 
 ## 📂 Struttura del Progetto
 Il lavoro è suddiviso in due fasi principali per garantire la pulizia e la riproducibilità del codice:
